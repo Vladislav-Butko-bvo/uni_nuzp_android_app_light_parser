@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Light Parser</string>
+    <string name="promptURL">URL:</string>
+    <string name="enterURLHint">Rozetka product page</string>
+    <string name="parseIt">Parse it!</string>
+    <string name="interrupt">Interrupt</string>
+    <string name="defaultText">Here will be result!</string>
+    <string name="dividerImage">image</string>
+    <string name="dividerTitle">title</string>
+    <string name="dividerPrice">price</string>
+    <string name="dividerDesc">description</string>
+    <string name="headerInfo">Info</string>
+    <string name="contentInfo">
+        \u0009\u0009\u0009\u0009\u0009The application is designed to work with the Rozetka website.
+        To get data about the product, you must enter a link of the product page.\n\n
+        \u0009\u0009\u0009\u0009\u0009After successful process, you will receive:\n
+        \u0009\u0009\u0009\u0009\u0009\u0009• picture;\n
+        \u0009\u0009\u0009\u0009\u0009\u0009• title;\n
+        \u0009\u0009\u0009\u0009\u0009\u0009• price;\n
+        \u0009\u0009\u0009\u0009\u0009\u0009• description.</string>
+    <string name="getInfo">i</string>
+    <string name="cancel">Cancel</string>
+</resources>
